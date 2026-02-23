@@ -1,4 +1,4 @@
-# Project 4: Alignment Trajectory Detector (ATD)
+# ML Systems Engineering Portfolio: Alignment Trajectory Detector (ATD)
 **`alignment-trajectory-detector/atd.py`**
 
 ---
